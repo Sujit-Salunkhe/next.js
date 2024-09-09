@@ -6,6 +6,8 @@ export default function page(){
         <Link href="/about">About</Link>
         <br/>
         <Link href="/products">Products</Link>
+        <br/>
+        <Link href="/blog">blog</Link>
         </>
     )
 }
