@@ -4,7 +4,7 @@ const Products = async () => {
   // const deatilsResponse = await axios.get("http://localhost:3001/products/1")
     const products = await axios.get('http://localhost:3001/products',{
       next:{
-        revalidate:10,
+        revalidate:20,
       }
     })
 
