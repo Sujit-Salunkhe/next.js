@@ -1,0 +1,35 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Wireless Bluetooth Headphones",
+        "price": 9999,
+        "description": "High-quality wireless headphones with noise cancellation and long battery life."
+      },
+      {
+        "id": 2,
+        "title": "4K Ultra HD Smart TV",
+        "price": 499.99,
+        "description": "55-inch 4K Ultra HD TV with smart features and built-in streaming apps."
+      },
+      {
+        "id": 3,
+        "title": "Gaming Laptop",
+        "price": 1199.99,
+        "description": "Powerful gaming laptop with 16GB RAM, RTX 3060 GPU, and 1TB SSD storage."
+      },
+      {
+        "id": 4,
+        "title": "Smartwatch",
+        "price": 199.99,
+        "description": "Feature-packed smartwatch with heart rate monitor, GPS, and fitness tracking."
+      },
+      {
+        "id": 5,
+        "title": "Portable Bluetooth Speaker",
+        "price": 49.99,
+        "description": "Compact, waterproof Bluetooth speaker with powerful sound and 10-hour battery life."
+      }
+    ]
+  }
+  
