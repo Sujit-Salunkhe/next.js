@@ -8,6 +8,9 @@ export default function page(){
         <Link href="/products">Products</Link>
         <br/>
         <Link href="/blog">blog</Link>
+        <div className="bg-[url('/next.svg')]">
+
+        </div>
         </>
     )
 }
